@@ -1,0 +1,6 @@
+Height=input('請輸入身高:')
+Weight=input('請輸入體重:')
+temputure=input('請輸入體溫:')
+Pause=input('請輸入脈搏:')
+Bp=input('請輸入血壓:')
+print('生命徵象表', Height, Weight, temputure, Pause, Bp)
